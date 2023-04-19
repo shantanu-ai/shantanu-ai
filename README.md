@@ -20,5 +20,5 @@ I am currently a PhD student at Boston University in Electrical Engineering unde
 
 <!-- ![Shantanu's Github Stats](https://github-readme-stats.vercel.app/api?username=Shantanu48114860) -->
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shantanu48114860&count_private=true&show_icons=false&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu48114860&theme=default&show_icons=true" />
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanu48114860&theme=default&show_icons=true" /> -->
 
