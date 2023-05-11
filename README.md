@@ -18,6 +18,9 @@ I am currently a PhD student at Boston University in Electrical Engineering unde
 - :man: Pronouns: he/him/his
 - :sunglasses: Fun fact: I was a software engineer for 6.5 years before I started my Masters in the US
 
+![Shantanu's Github Stats](https://github-readme-stats.vercel.app/api?username=Shantanu48114860)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shantanu48114860&count_private=true&show_icons=false&theme=default" />
+
 <!-- ![Shantanu's Github Stats](https://github-readme-stats.vercel.app/api?username=Shantanu48114860) -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shantanu48114860&count_private=true&show_icons=false&theme=default" /> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shantanu48114860&repo=github-readme-stats" /> -->
