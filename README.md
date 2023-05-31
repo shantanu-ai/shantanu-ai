@@ -12,7 +12,7 @@ I am currently a PhD candidate at Boston University in Electrical Engineering un
 
 - :computer: This is my [website](https://shantanu48114860.github.io/)
 - 🔭 I am currently working at [Batman Lab](https://www.batman-lab.com/)
-- 🌱 I know about research in Explainable-AI (XAI)
+- 🌱 I know about research in Explainable-AI (X-AI)
 - 💬 Ask me about Python, Pytorch, Deep Learning, Computer Vision
 - 📫 How to reach me: beingshantanu2406@gmail.com
 - :man: Pronouns: he/him/his
