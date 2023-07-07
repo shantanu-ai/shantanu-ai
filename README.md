@@ -8,12 +8,12 @@
 
 Icons borrowed from [David Stutz](https://github.com/davidstutz/davidstutz/blob/master/README.md)
 
-I am currently a PhD Candidate at Boston University in Electrical Engineering under the supervision of [Dr. Kayhan Batmanghelich](https://www.batman-lab.com/). My research interest lies in Explainable-AI with an application in medical imaging. I graduated with a Masters degree in Computer Science from the University of Florida.
+I am currently a Ph.D. Candidate at Boston University in Electrical Engineering under the supervision of [Dr. Kayhan Batmanghelich](https://www.batman-lab.com/). I am a computer vision researcher interested in explainable AI with an application in medical imaging. I graduated with a master's degree in Computer Science from the University of Florida under the supervision of [Dr. Mattia Prosperi](https://epidemiology.phhp.ufl.edu/disl/).
 
 - :computer: This is my [website](https://shantanu48114860.github.io/)
 - 🔭 I am currently working at [Batman Lab](https://www.batman-lab.com/)
-- 🌱 I know about research in Explainable-AI (X-AI)
-- 💬 Ask me about Python, Pytorch, Deep Learning, Computer Vision
+- 🌱 I know about research in explainable AI (X-AI)
+- 💬 Ask me about Python, Pytorch, Deep Learning, Computer Vision, X-AI
 - 📫 How to reach me: beingshantanu2406@gmail.com
 - :man: Pronouns: he/him/his
 - :sunglasses: Fun fact: I was a software engineer for 6.5 years before I started my Masters in the US
