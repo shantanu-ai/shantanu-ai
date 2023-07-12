@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://shantanu48114860.github.io/)
+[![](https://img.shields.io/badge/website-gray?&style=for-the-badge)](https://shantanu48114860.github.io/)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-am-shantanu-ghosh/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shantanuai)
 [![](https://img.shields.io/badge/googlescholar-%234285F4.svg?&style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=U_s5k_oAAAAJ&hl=en)
