@@ -20,6 +20,8 @@ I am currently a Ph.D. Candidate at Boston University in Electrical Engineering 
 
 <!-- ![Shantanu's Github Stats](https://github-readme-stats.vercel.app/api?username=Shantanu48114860) -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shantanu48114860&count_private=true&show_icons=false&theme=default" />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shantanuai&theme=synthwave)
  -->
 <!-- ![Shantanu's Github Stats](https://github-readme-stats.vercel.app/api?username=Shantanu48114860) -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shantanu48114860&count_private=true&show_icons=false&theme=default" /> -->
