@@ -8,7 +8,7 @@
 
 Icons borrowed from [David Stutz](https://github.com/davidstutz/davidstutz/blob/master/README.md)
 
-I am currently a Ph.D. Candidate at Boston University in Electrical Engineering under the supervision of [Dr. Kayhan Batmanghelich](https://www.batman-lab.com/). I am a computer vision researcher interested in explainable AI with an application in medical imaging. I graduated with a master's degree in Computer Science from the University of Florida under the supervision of [Dr. Mattia Prosperi](https://epidemiology.phhp.ufl.edu/disl/).
+I am currently a Ph.D. candidate at Boston University in Electrical Engineering under the supervision of [Dr. Kayhan Batmanghelich](https://www.batman-lab.com/). I am a computer vision researcher interested in explainable AI with an application in medical imaging. I graduated with a master's degree in Computer Science from the University of Florida under the supervision of [Dr. Mattia Prosperi](https://epidemiology.phhp.ufl.edu/disl/).
 
 - :computer: This is my [website](https://shantanu48114860.github.io/)
 - 🔭 I am currently working at [Batman Lab](https://www.batman-lab.com/)
